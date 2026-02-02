@@ -1,0 +1,17 @@
+Final Recommendation – A/B Test Analysis
+
+
+An A/B test was conducted to compare the performance of advertisements (Ad group) with public service announcements (PSA group).
+
+
+The conversion rate of the Ad group is higher than the PSA group.
+A chi-square test was used to evaluate whether this difference is statistically significant.
+
+
+The p-value obtained from the test is 0.00259, which is less than the significance level of 0.05.
+Therefore, the null hypothesis is rejected.
+
+
+Recommendation:
+Based on the results, advertisements lead to a significantly higher conversion rate compared to PSA.
+It is recommended to continue using advertisements to maximize user conversions.
